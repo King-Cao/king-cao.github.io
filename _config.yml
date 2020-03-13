@@ -27,7 +27,7 @@ facebook_username:
 highlighter: rouge
 permalink: pretty
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
-
+future: true
 
 
 # Markdown settings
@@ -91,19 +91,7 @@ page-mathjax: false
 # Friends
 friends: [
     {
-        title: "Hux Blog",
-        href: "http://huangxuan.me"
-    },{
-        title: "Foo",
-        href: "#"
-    },{
-        title: "Bar",
-        href: "#"
-    },{
-        title: "Example Friends",
-        href: "#"
-    },{
-        title: "It helps SEO",
+        title: "",
         href: "#"
     }
 ]
